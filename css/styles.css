@@ -10,9 +10,6 @@
 	margin:0;
 	padding:0;
 }
-.navbar > .container-fluid .navbar-brand {
-    margin-left:0;
-}
 .navbar-brand>a,#nav-list{ 
 	color:black;
 }
