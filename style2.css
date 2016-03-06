@@ -1,9 +1,6 @@
 .container-fluid{
 	background-color:gray;
 }
-#second-container{
-	background-color:white;
-}
 .container-fluid > .navbar-collapse, .navbar-nav, .nav, {
   /*margin-right: 0px;
   margin-left: 0px;*/
@@ -28,7 +25,6 @@
 	overflow-y:hidden;
 	padding-right: 0;
 	padding-left: 0;
-	border-color:black;
 }
 #nav-list{
 	background-color:white;
@@ -43,13 +39,6 @@ li{
 	/*border-width:1px;*/
 	border-bottom:1px;
 }
-li>a>p{
-	font-family: "Open Sans"
-}
-#s{
-	border-bottom:3px;
-	border-style:solid;
-}
 #menu{
 	font-size:1.6em;
 	font-weight:600;
@@ -59,7 +48,6 @@ li>a>p{
 	background-color:gray;
 	color:black;
 	padding:10px;
-	margin:10px;
 }
 .food-title{
 	font-size:1.3em;
